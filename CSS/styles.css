@@ -1,0 +1,32 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  background-color: auto;
+  /* border-style: none; If u set border style as none then ur horizontal border
+                       will be disapered automatically that's because of default
+                       browser property. */
+  border-style: dotted none none;
+  height: 0px;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
+
+img {
+  height: 150px;
+}
+h1 {
+  color: #7fdbda;
+}
+h2 {
+  color: #7fdbda;
+}
+h3 {
+  color: #7fdbda;
+}
+
+.circular {
+  border-radius: 100%;
+}
